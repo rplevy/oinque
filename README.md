@@ -8,6 +8,12 @@ FIXME: write description
 
 FIXME: write
 
+## Contributers
+===============
+
+Alyssa Kwan
+Robert Levy
+
 ## License
 ==========
 

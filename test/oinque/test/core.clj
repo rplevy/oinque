@@ -1,6 +1,8 @@
 (ns oinque.test.core
-  (:use [oinque.core])
-  (:use [clojure.test]))
+  (:use midje.sweet)
+  (:require [oinque.core :as base]))
 
-(deftest replace-me ;; FIXME: write
-  (is false "No tests have been written."))
+(fact
+ "we can get a geolocation, a hashtag, and a radius"
+ 
+ )

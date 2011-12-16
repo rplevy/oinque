@@ -11,8 +11,8 @@ FIXME: write
 ## Contributers
 ===============
 
-Alyssa Kwan
-Robert Levy
+* Alyssa Kwan
+* Robert Levy
 
 ## License
 ==========
